@@ -1,0 +1,10 @@
+{
+    "users":{
+        "USERID1":{
+            "firstName":"Gaurav",
+            "lastName":"Tayal",
+            "email":"test@test.com",
+            "phoneNumber":
+        }
+    }
+}
